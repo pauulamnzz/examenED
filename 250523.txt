@@ -1,1 +1,1 @@
-"Voy a aprobar"
+"No voy a aprobar"
